@@ -25,8 +25,7 @@ The MAC Address Changer script allows you to change the MAC address of your netw
 Clone this repository to your local computer:
 
 ```sh
-git clone https://github.com/your-username/mac-address-changer.git
-cd mac-address-changer
+git clone https://github.com/my-holber/linux_mac-address-changer.git
 ```
 ## Usage
 
