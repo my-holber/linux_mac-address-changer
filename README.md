@@ -47,3 +47,5 @@ This script is intended for educational purposes only. Changing your MAC address
 ## Links
 - [Documentation optparse](https://docs.python.org/3/library/optparse.html)
 - [Documentation subprocess](https://docs.python.org/3/library/subprocess.html) 
+- [Documentation Regular expression](https://docs.python.org/fr/3/library/re.html)
+- [pythex](https://pythex.org/)
