@@ -31,6 +31,10 @@ git clone https://github.com/my-holber/linux_mac-address-changer.git
 
 Run the script with the necessary options:
 ```
+sudo python Final-version_mac-address_changer.py -i eth0 -m 00:11:22:33:44:55
+```
+or 
+```
 sudo python mac_changer.py -i eth0 -m 00:11:22:33:44:55
 ```
 This will change the MAC address of the eth0 interface to 00:11:22:33:44:55.
